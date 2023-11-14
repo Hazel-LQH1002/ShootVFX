@@ -8,6 +8,6 @@ Here's my demo (haven't finished yet! keep learning and updating):
 
 
 <p align="center">
-  <img src="gif/wind.gif" alt="animated" />
+  <img src="gif/shootRain.gif" alt="animated" />
 </p>
 
